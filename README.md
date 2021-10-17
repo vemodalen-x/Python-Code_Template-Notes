@@ -4,8 +4,8 @@ Python Code_Template &amp; Notes
 <br/>
 # Reference
 ## Design Pattern
-1.https://www.bilibili.com/video/BV19541167cn?from=search&seid=9196945156909400867&spm_id_from=333.337.0.0
-2.https://github.com/ThanlonSmith/design-pattern
+1. https://www.bilibili.com/video/BV19541167cn?from=search&seid=9196945156909400867&spm_id_from=333.337.0.0
+2. https://github.com/ThanlonSmith/design-pattern
 ## ML Visuals
 1. https://github.com/dair-ai/ml-visuals
 ## basic_python
