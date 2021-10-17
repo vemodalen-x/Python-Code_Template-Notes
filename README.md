@@ -13,7 +13,7 @@ Python Code_Template &amp; Notes
 2. fluent python
 3. effective python 
 ## demo
-https://www.youtube.com/c/NeuralNine/playlists
+1. https://www.youtube.com/c/NeuralNine/playlists
 ## mind_map
 1. picture of notes and mind map-pdf
 # notes and mind map-pdf
